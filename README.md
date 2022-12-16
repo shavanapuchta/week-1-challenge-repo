@@ -38,7 +38,9 @@ Link to web application: http://127.0.0.1:5501/index.html
 
 Screenshots:
 
+<img width="1463" alt="Screen Shot 2022-12-15 at 4 17 19 PM" src="https://user-images.githubusercontent.com/119765380/207994559-fd34ed63-e9c1-4409-862a-7bf050f6f049.png">
 
+<img width="1456" alt="Screen Shot 2022-12-15 at 4 17 33 PM" src="https://user-images.githubusercontent.com/119765380/207994574-6ef992e9-e08a-41f9-81ce-208da9571248.png">
 
 [The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.] 
 
