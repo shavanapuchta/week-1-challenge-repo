@@ -1,13 +1,16 @@
+/* Universal Selectors - Attributes apply to all elements. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selector - Attributes apply to the entire body of the HTML doc. */
 body {
     background-color: #d9dcd6;
 }
 
+/* Element/Class Selectors - Attributes apply to the 'header' element. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,10 +49,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -57,6 +56,11 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* Element/Class Selectors - Attributes apply to the 'main', 'section', and all child elements. */
+p {
+    font-size: 16px;
 }
 
 .float-left {
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* Class Selectors - Attributes apply to the sidebar ('aside') element and the image elements under 'aside'.. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +139,7 @@ p {
     max-width: 150px;
 }
 
+/* Class Selectors - Attributes apply to the 'image' elements under 'main'. */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +194,7 @@ p {
     font-size: 36px;
 }
 
+/* Class Selector - Attributes apply to the 'footer' element. */
 .footer {
     padding: 30px;
     clear: both;
